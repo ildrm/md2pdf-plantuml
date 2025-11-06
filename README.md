@@ -14,12 +14,19 @@ This script is designed for technical documentation workflows where source Markd
 * Inline: `@startuml … @enduml`
 
 ✅ Renders diagrams as PNG in parallel (multiprocessing)
+
 ✅ Automatically injects missing `@startuml/@enduml` wrappers
+
 ✅ Replaces UML blocks with image references in the Markdown
+
 ✅ Converts Markdown to PDF with XeLaTeX and font fallback
+
 ✅ Resolves LaTeX `$` escape issues
+
 ✅ Applies page breaks via `---` (excluding YAML headers)
+
 ✅ Skips regeneration for already-rendered diagrams
+
 ✅ Logs all activity to help debugging
 
 ---
