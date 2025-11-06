@@ -177,19 +177,6 @@ If you want, I can handle these upgrades next. 💡
 
 ---
 
-## 👤 Author
-
-**Shahin Ilderemi**
-Senior Python Developer & Technical Writer
-📧 Email: **[ildrm@hotmail.com](mailto:ildrm@hotmail.com)**
-🌐 Website: [https://ildrm.com](https://ildrm.com)
-💼 LinkedIn: [https://www.linkedin.com/in/ildrm](https://www.linkedin.com/in/ildrm)
-💻 GitHub: [https://github.com/ildrm](https://github.com/ildrm)
-
-If this project helps you, ⭐ consider starring the repository!
-
----
-
 ## 📜 License
 
 MIT License — free for personal and commercial use.
