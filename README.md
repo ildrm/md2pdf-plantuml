@@ -93,12 +93,12 @@ Place it in:
 Edit the beginning of `md2pdf-plantuml.py` to match your file paths:
 
 ```python
-md_file = Path(r"F:\MD-Proj\book.md")
-plantuml_jar = Path(r"F:\MD-Proj\libs\plantuml.jar")
-output_dir = Path(r"F:\MD-Proj\diagrams")
-temp_md = Path(r"F:\MD-Proj\book_tmp.md")
+md_file = Path(r"F:\md2pdf\book.md")
+plantuml_jar = Path(r"F:\md2pdf\libs\plantuml.jar")
+output_dir = Path(r"F:\md2pdf\diagrams")
+temp_md = Path(r"F:\md2pdf\book_tmp.md")
 pandoc_exe = "pandoc"
-log_file = Path(r"F:\MD-Proj\conversion.log")
+log_file = Path(r"F:\md2pdf\conversion.log")
 ```
 
 ---
