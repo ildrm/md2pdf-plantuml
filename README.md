@@ -125,12 +125,6 @@ Bob --> Alice: Hi!
 @enduml
 ```
 
-Result inside Markdown:
-
-```md
-![Diagram 1](diagrams/diagram1.png){ width=100% }
-```
-
 ---
 
 ## 🧠 Code Explanation
